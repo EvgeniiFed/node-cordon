@@ -25,7 +25,3 @@
 - Python 3.7+
 - Доступ к Kubernetes API (используется на Kubernetes v1.3+)
 - Установленные зависимости: `kubernetes`, `requests`
-
-### Установка зависимостей локально
-```bash
-pip install kubernetes requests
